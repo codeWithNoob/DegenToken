@@ -31,8 +31,8 @@ Deploy the contract using " Avalanche Fuji C-Chain " account.
 Copy the Deployed contract address and go to https://testnet.snowtrace.io
 Search the coppied address in the search box it will show all the transaction blocks of that smart contract.
 Check All the functionality of my smart contract. 
-# Author
+## Author
 CodewithNoob
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details
