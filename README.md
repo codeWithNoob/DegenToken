@@ -30,8 +30,8 @@ Connect Metamask to the Remix IDE with the testnet account having AVAX token for
 Deploy the contract using " Avalanche Fuji C-Chain " account.
 Copy the Deployed contract address and go to https://testnet.snowtrace.io
 Search the coppied address in the search box it will show all the transaction blocks of that smart contract.
-Check All the functionality of my smart contract.
-Author
+Check All the functionality of my smart contract. 
+# Author
 CodewithNoob
 
 License
