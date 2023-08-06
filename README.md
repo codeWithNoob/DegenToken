@@ -1,4 +1,4 @@
- ## Degan Gaming Project
+ ### Degan Gaming Project
 
 This repository is for the project assessment of the project of the 4th module of : solidity-avax-intermediate course of Metacrafters academy . The purpose of creating this to prove my learning and to showcase my skill as a solidity developer to the people.
 
